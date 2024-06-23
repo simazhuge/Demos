@@ -1,0 +1,4 @@
+[submodule "ormcppdemo/ormpp"]
+	path = ormcppdemo/ormpp
+	url = https://github.com/simazhuge/ormpp.git
+	branch = branch-v1
